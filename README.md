@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem-vindo ao meu perfil 🤙
 
-<!--
-**jpgjpm2024/jpgjpm2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Pedro
 
-Here are some ideas to get you started:
+-Estou estodando no alura
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-To aqui para pegar minha nota escolar
+-
+-Estou desenvolvendo linguagens no javascript
+-
+
+![](https://media1.tenor.com/m/LkERKRVyEboAAAAC/suit-ronaldo.gif)
